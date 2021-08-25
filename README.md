@@ -2,6 +2,8 @@
 
 *Try to sleep at least 8 hours/DAY*
 
+![A photo of myself...](myself.png)
+
 ## I an aspiring dev who love video games, draw, read heroic fantasy books/manga/commics.
 
 * Bithday: 26/10
@@ -23,7 +25,7 @@
 
 ### You can always count on me when
 
-**When it's time to hangout whith bear and pizza**
+**When it's time to hangout whith bear and pizza!**
 And also if you need help with programming stuff *there always more in two head than one*
 
 ### A funny story
