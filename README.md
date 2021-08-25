@@ -2,7 +2,7 @@
 
 *Try to sleep at least 8 hours/DAY*
 
-![A photo of myself...](myself.png)
+![A photo of myself...](Myself.png)
 
 ## I an aspiring dev who love video games, draw, read heroic fantasy books/manga/commics.
 
