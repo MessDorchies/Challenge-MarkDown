@@ -8,9 +8,10 @@
 * Gender : Male
 * Favorite color: red
 * Favorite food: enchiladas
-* Pinneapple on pizza: - [ ] yes
-                       - [ ] no
-                       - [x] if you like it you need an exorcism man...
+* Pinneapple on pizza: 
+    - [ ] yes
+    - [ ] no
+    - [x] if you like it you need an exorcism man...
 
 ### Hobbies
 
