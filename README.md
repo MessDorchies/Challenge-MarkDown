@@ -11,7 +11,7 @@
 * Pinneapple on pizza: 
     - [ ] yes
     - [ ] no
-    - [x] if you like it you need an exorcism man...
+    - [x] if you like it you need an exorcism...
 
 ### Hobbies
 
