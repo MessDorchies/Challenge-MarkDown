@@ -25,7 +25,7 @@
 
 ### You can always count on me when
 
-**When it's time to hangout whith bear and pizza!**
+**When it's time to hangout with bear and pizza!**
 And also if you need help with programming stuff *there always more in two head than one*
 
 ### A funny story
