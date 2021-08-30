@@ -4,7 +4,7 @@
 
 ![A photo of myself...](Myself.png)
 
-## I an aspiring dev who love video games, draw, read heroic fantasy books/manga/commics.
+## I'm an aspiring dev who love video games, draw, read heroic fantasy books/manga/commics.
 
 * Bithday: 26/10
 * Gender : Male
